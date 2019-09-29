@@ -14,3 +14,9 @@ p {
     font-family: 'Inter var', sans-serif;
     font-size: 200%
 }
+
+nav, ul {
+    margin: 0;
+    padding: 0;
+    position: relative
+}
