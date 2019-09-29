@@ -21,9 +21,8 @@ nav, ul {
     position: relative
 }
 
-h1.404 {
-    color: black
+.error {
+    color: black;
     font-family: 'Inter var', sans-serif;
-    font-size: 300%
-    align: center;
+    font-size: 300%;
 }
