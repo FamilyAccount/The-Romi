@@ -20,3 +20,10 @@ nav, ul {
     padding: 0;
     position: relative
 }
+
+h1.404 {
+    color: black
+    font-family: 'Inter var', sans-serif;
+    font-size: 300%
+    align: center;
+}
