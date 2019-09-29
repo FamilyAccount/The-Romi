@@ -27,7 +27,7 @@ nav, ul {
     font-size: 300%;
 }
 
-button.return {
+.return {
     color: black;
     font-size: 200%;
     font-family: 'Inter var', sans-serif;
